@@ -4,7 +4,7 @@
 
 ### Quick Tour
 
-This is a pytorch implementation for our paper.
+This is a pytorch implementation for our MICCAI-2023 paper "A Multi-Task Method for Immunofixation Electrophoresis Image Classification".
 
 To run the code To run the code, please make sure you have prepared your IFE data following the same structure as follows (you can also refer to the examplar data in this repository):
 
